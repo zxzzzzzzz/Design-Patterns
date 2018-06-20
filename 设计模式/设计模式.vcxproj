@@ -146,6 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="代理模式_当当网.cpp" />
+    <ClCompile Include="单例基本语法.cpp" />
+    <ClCompile Include="工厂模式.cpp" />
+    <ClCompile Include="抽象工厂模式.cpp" />
+    <ClCompile Include="简单工厂模式.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
